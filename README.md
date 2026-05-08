@@ -8,6 +8,9 @@ The Preprocessed Files, Best Model Load File and EDA, Piano-Roll Plots are on th
 
   Task 2:
     The VAE code with KL loss and 8 samples generation of latent space interpolation is in the task 2 directory. The full code has the entire task 2 code implementation and the generated samples folder contains the 8 generations of latent space interpolation.
+    
+All the files of task 2, inlcuding the training, valid and test preprocessed npy files, are in this google drive link. https://drive.google.com/drive/folders/1jS_M5dmH-_JznpWo_N06w_GneN7eJ1GZ?usp=drive_link
+
   
   Task 3 and Task 4:
       Task 3 Generated MIDI (Contains the newly generated MIDI files)
@@ -18,6 +21,4 @@ pants), a reward scoring function or model, 10 RL fine-tuned music outputs, and 
 comparison of all metrics) are present in the '474_PROJECT_(task3_+_task4).ipynb' file."
 
 The MIDI Files of both tasks 3 and 4 along with the ipynb file are on the Google Drive Link as mentioned below: https://drive.google.com/drive/folders/19bWo_47-4frRYH-1_dAMfMTP4hybH5Kj?usp=drive_link.
-
-All the files of task 2, inlcuding the training, valid and test preprocessed npy files, are in this google drive link. https://drive.google.com/drive/folders/1jS_M5dmH-_JznpWo_N06w_GneN7eJ1GZ?usp=drive_link
 
