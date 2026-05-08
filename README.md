@@ -23,3 +23,20 @@ comparison of all metrics) are present in the '474_PROJECT_(task3_+_task4).ipynb
 
 The MIDI Files of both tasks 3 and 4 along with the ipynb file are on the Google Drive Link as mentioned below: https://drive.google.com/drive/folders/19bWo_47-4frRYH-1_dAMfMTP4hybH5Kj?usp=drive_link.
 
+GROUP DETAILS-
+Name: Aban Ahmad 
+ID: 22221072
+SL. 434E
+Completed Task 1
+
+Name: Audhip Aunho Rahman
+ID: 22221058
+SL. 536E
+Completed Task 2
+
+Name: Daiyan Ibnul Aswad
+ID: 22221012
+SL. 433E
+Completed Task 3 and 4
+
+
