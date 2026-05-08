@@ -24,7 +24,10 @@ comparison of all metrics) are present in the '474_PROJECT_(task3_+_task4).ipynb
 The MIDI Files of both tasks 3 and 4 along with the ipynb file are on the Google Drive Link as mentioned below: https://drive.google.com/drive/folders/19bWo_47-4frRYH-1_dAMfMTP4hybH5Kj?usp=drive_link.
 
 The Youtube Link for the Presentation: https://youtu.be/anX-a8J6BDY
+http://youtube.com/watch?v=anX-a8J6BDY
 
+The Google Drive Link for the Report:
+https://drive.google.com/drive/folders/1tSbBI8e8z3XzEu1VgO9BTIQSvAi56d1Z?usp=drive_link
 
 GROUP DETAILS-
 Name: Aban Ahmad 
