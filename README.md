@@ -23,6 +23,9 @@ comparison of all metrics) are present in the '474_PROJECT_(task3_+_task4).ipynb
 
 The MIDI Files of both tasks 3 and 4 along with the ipynb file are on the Google Drive Link as mentioned below: https://drive.google.com/drive/folders/19bWo_47-4frRYH-1_dAMfMTP4hybH5Kj?usp=drive_link.
 
+EEE474 PROJECT REPORT.pdf contains the pdf file of the report.
+README.md contains all the details about the repository.
+
 The Youtube Link for the Presentation: https://youtu.be/anX-a8J6BDY
 http://youtube.com/watch?v=anX-a8J6BDY
 
